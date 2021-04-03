@@ -3,9 +3,9 @@
 ### Personal Details
 - Email : **deepthipriyakosanam@gmail.com**
 
-- Phone : **7347444248**
+- Phone : **9347444248**
 
-- DOB : **11-03-2002**
+- DOB : **14-03-2002**
 
 - Address : **Vijayawada**
 
