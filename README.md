@@ -1,4 +1,4 @@
-# Name : Deepthi priya
+#  Deepthi priya
 =============================
 ### Personal Details
 - Email : **deepthipriyakosanam@gmail.com**
