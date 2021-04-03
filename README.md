@@ -1,12 +1,18 @@
 # Name : Deepthi priya
 =============================
 ### Personal Details
--Email : **deepthipriyakosanam@gmail.com**
--Phone : **7347444248**
--DOB : **11-03-2002**
--Address : **Vijayawada**
+- Email : **deepthipriyakosanam@gmail.com**
+
+- Phone : **7347444248**
+
+- DOB : **11-03-2002**
+
+- Address : **Vijayawada**
+
 =============================
+
  ### Education Details
+ 
  -B.tech
  
   - **RVR&JC college of engineering** 
@@ -27,7 +33,7 @@
   - **2016-2017**
   - **Pedana,Andhrapradesh,India**
   
-  ####Technical skills
+  #### Technical skills
   
   - **python**
   - **java**
@@ -36,5 +42,6 @@
   - **git**
 
   #### Certifications:
+  
   - completed **Java** for everybody in **NPTEL**
   - certified by **fullstack** NanoDegree in **udacity**
