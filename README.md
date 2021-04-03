@@ -11,7 +11,7 @@
 
 =============================
 
- ### Education Details
+ ###  Education Details
  
  -B.tech
  
